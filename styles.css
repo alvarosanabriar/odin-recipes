@@ -1,0 +1,24 @@
+* {
+    font-family: "Times New Roman", Garamond, serif;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.lechona {
+    background-color: #fcba03;
+}
+
+.tamal {
+    background-color: #02751b;
+}
+
+.ajiaco {
+    background-color: #ebe421;
+}
+
+.caldo {
+    background-color: #e2f2d0;
+}
