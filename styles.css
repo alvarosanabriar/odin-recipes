@@ -10,15 +10,43 @@ img {
 .lechona {
     background-color: #fcba03;
 }
+.lechona.header {
+    color: #4C2444;
+}
+.lechona.ingredients,
+.lechona.steps {
+    color: #0D4040;
+}
 
 .tamal {
     background-color: #02751b;
+}
+.tamal.header {
+    color: #FFFFFF;
+}
+.tamal.ingredients,
+.tamal.steps {
+    color: #6EF5F5;
 }
 
 .ajiaco {
     background-color: #ebe421;
 }
+.ajiaco.header {
+    color: #562743;
+}
+ajiaco.ingredients,
+ajiaco.steps {
+    color: #4C0909;
+}
 
 .caldo {
     background-color: #e2f2d0;
+}
+.caldo.header {
+    color: #1F330C;
+}
+.caldo.ingredients,
+.caldo.steps {
+    color: #0C0D33;
 }
