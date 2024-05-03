@@ -2,6 +2,21 @@
     font-family: "Times New Roman", Garamond, serif;
 }
 
+*,
+*::before
+*::after
+{
+    box-sizing: border-box;   
+} 
+
+div {
+    width: 800px;
+    margin: 10px auto; 
+    padding: 50px;
+    border: 5px solid black;
+    text-align: center;
+}
+
 img {
     height: auto;
     width: 500px;
